@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Exercicio_POO_18_Classes_Metodos_Abstratos_Shape.Models
+{
+    public interface IShape
+    {
+        double Area();
+    }
+}

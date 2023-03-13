@@ -1,4 +1,4 @@
-﻿namespace Exercicio_POO_18_Classes_Metodos_Abstratos_Shape.Entities
+﻿namespace Exercicio_POO_18_Classes_Metodos_Abstratos_Shape.Entities.Enums
 {
     public enum ColorEnum
     {
